@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="logo_disc">This is the Logo for my app..!</string>
+    <string name="Dice_disc"> This is a dice to roll...!</string>
+    <string name="h_disc"> Higher </string>
+    <string name="higher">Higher</string>
+    <string name="l_disc">Lower</string>
+    <string name="lower">Lower</string>
+
+</resources>
